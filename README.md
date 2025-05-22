@@ -22,7 +22,7 @@ AdvancedLeakDetectionSystem/
 │   ├── leak_analyzer.h / .cpp
 │   ├── network_manager.h / .cpp
 │   └── alert_system.h / .cpp
-├── thingspeak_leak_detection_script.m
+├── Leak_Detection_Thingspeak.m
 └── README.md
 ```
 
