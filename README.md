@@ -46,8 +46,6 @@ AdvancedLeakDetectionSystem/
 - Compares with baseline values
 - Sends alert emails via `sendEmail()` if leak detected
 
-### 🔗 [ThingSpeak MATLAB Script Download](thingspeak_leak_detection_script.m)
-
 ## 📁 Setup Instructions
 
 1. Flash the `main.ino` project using PlatformIO or Arduino IDE.
